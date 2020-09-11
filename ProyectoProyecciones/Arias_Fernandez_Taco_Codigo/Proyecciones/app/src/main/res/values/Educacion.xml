@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="educacion">
+        <item>Pensiones</item>
+        <item>Colaciones</item>
+        <item>Utiles Escolares</item>
+        <item>Recorrido</item>
+    </string-array>
+</resources>

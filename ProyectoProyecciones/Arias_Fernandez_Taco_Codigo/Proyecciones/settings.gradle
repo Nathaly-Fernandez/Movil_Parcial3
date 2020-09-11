@@ -1,0 +1,2 @@
+rootProject.name='Proyecciones'
+include ':app', ':mysql-connector-java-3.0.17-ga-bin'

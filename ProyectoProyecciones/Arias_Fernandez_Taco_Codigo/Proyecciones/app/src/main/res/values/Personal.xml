@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="personal">
+        <item>Ropa</item>
+        <item>Cuidado Persona</item>
+        <item>Productos de Higiene</item>
+    </string-array>
+</resources>

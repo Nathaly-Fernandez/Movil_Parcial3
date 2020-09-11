@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vivienda">
+        <item>Arriendo</item>
+        <item>Luz</item>
+        <item>Agua</item>
+        <item>Telefono</item>
+        <item>Plan Celular</item>
+        <item>Internet</item>
+        <item>Tv Cable</item>
+        <item>Mantenimientos Hogar</item>
+    </string-array>
+</resources>

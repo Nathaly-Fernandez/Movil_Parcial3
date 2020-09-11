@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gastosVarios">
+        <item>Gastos Hogar</item>
+        <item>Gastos Personales</item>
+    </string-array>
+</resources>

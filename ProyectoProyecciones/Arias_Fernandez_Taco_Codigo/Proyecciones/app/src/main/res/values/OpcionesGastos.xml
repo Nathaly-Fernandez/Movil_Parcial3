@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opcionesGastos">
+        <item>Vivienda</item>
+        <item>Alimentacion</item>
+        <item>Educacion</item>
+        <item>Medicos</item>
+        <item>Deudas</item>
+        <item>Personal</item>
+        <item>Transporte</item>
+        <item>Gastos Varios</item>
+        <item>Entretenimiento</item>
+    </string-array>
+</resources>
